@@ -10,7 +10,7 @@ var spotify = new Spotify({
     });
 var request = require('request');
 var fs = require("fs");
-
+//needs a little work not too bad
 
 switch (command) {
     case 'concert-this':
